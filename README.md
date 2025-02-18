@@ -2,9 +2,6 @@
 # IGDownloader 📥  
 **Download Instagram Content Effortlessly**
 
-[![GitHub stars](https://img.shields.io/github/stars/shxel/IGDownloader?style=social)](https://github.com/shxel/IGDownloader/stargazers) 
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/shxel/IGDownloader/blob/main/LICENSE)
-
 A Python-based tool to download Instagram posts, stories, highlights, and IGTV content in various formats and resolutions.
 
 ## Features ✨
