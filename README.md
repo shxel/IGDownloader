@@ -1,4 +1,4 @@
-```markdown
+
 # IGDownloader 📥  
 **Download Instagram Content Effortlessly**
 
